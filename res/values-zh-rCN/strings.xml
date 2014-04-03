@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2013 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">全方位开关</string>
+    <string name="status_bar_recent_remove_item_title">停止</string>
+    <string name="status_bar_recent_inspect_item_title">应用信息</string>
+    <string name="recents_settings_title">全方位开关</string>
+    <string name="start_on_boot_title">开机启动</string>
+    <string name="start_on_boot_summary">开始,使设备启动</string>
+    <string name="opacity_title">透明度</string>
+    <string name="opacity_summary">重叠视图的背景不透明度</string>
+    <string name="animate_title">动画效果</string>
+    <string name="animate_title_summary">动画叠加显示和隐藏的视图</string>
+    <string name="adjust_handle_title">位置</string>
+    <string name="sc_drag_handle_title">拖动处理</string>
+    <string name="sc_drag_handle_body">\n横向滑动或长按可开启\n按键或关闭</string>
+    <string name="sc_favorite_title">最喜欢的应用程序</string>
+    <string name="sc_favorite_body">\n打开喜欢的应用程序视图。</string>
+    <string name="icon_size_normal">默认</string>
+    <string name="icon_size_small">小</string>
+    <string name="icon_size_large">大</string>
+    <string name="icon_size_title">图标大小</string>
+    <string name="ok">OK</string>
+    <string name="cancel">取消</string>
+    <string name="drag_handle_color_title">颜色</string>
+    <string name="drag_handle_color_summary"></string>
+    <string name="drag_handle_color_dialog_title">颜色</string>
+    <string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> free</string>
+    <string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> used</string>
+    <string name="show_rambar_title">显示内存使用情况</string>
+    <string name="show_rambar_summary">显示可自定义设置的时间和内存使用</string>
+    <string name="show_app_labels">显示应用程序的名字</string>
+    <string name="show_app_labels_summary">应用程序的名称会随着图标显示</string>
+    <string name="category_overlay_title">覆盖</string>
+    <string name="category_drag_handle_title">拖动处理</string>
+    <string name="category_favorite_title">我的收藏夹</string>
+    <string name="favorite_apps_config_title">管理我的收藏夹</string>
+    <string name="favorite_apps_config_summary">自定义收藏夹视图中显示的应用程序</string>
+    <string name="favorite_apps_add_dialog_title">添加应用程序</string>
+    <string name="favorite_add">添加\u2026</string>
+    <string name="location_left" translatable="false">&lt;&lt;</string>
+    <string name="location_right" translatable="false">&gt;&gt;</string>
+    <string name="reset">默认</string>
+    <string name="toogle_last_app_help">切换到最后一个应用程序</string>
+    <string name="kill_all_apps_help">结束所有的应用程序</string>
+    <string name="kill_other_apps_help">终止其他应用</string>
+    <string name="settings_help">设置</string>
+    <string name="home_help">Home</string>
+    <string name="toogle_last_app">切换到最后一个应用程序</string>
+    <string name="kill_all_apps">结束所有的应用程序</string>
+    <string name="kill_other_apps">终止其他应用</string>
+    <string name="settings">设置</string>
+    <string name="home">Home</string>
+    <string name="buttons_title">按钮设置</string>
+    <string name="buttons_summary">在叠加视图中显示的操作按钮</string>
+    <string name="auto_hide_handle">自动隐藏</string>
+    <string name="auto_hide_handle_summary">Two swipes to show overlay view</string>
+    <string name="no_recent_apps_title">最近没有应用程序</string>
+    <string name="adjust_handle_summary"></string>
+    <string name="drag_handle_opacity_title">透明度</string>
+    <string name="drag_handle_opacity_summary"></string>
+    <string name="drag_handle_enable_title">启用</string>
+    <string name="drag_handle_enable_summary">只有当您使用其他激活方法时禁用</string>
+</resources>
