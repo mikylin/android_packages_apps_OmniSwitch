@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">全方位开关</string>
     <string name="status_bar_recent_remove_item_title">停止</string>
-    <string name="status_bar_recent_inspect_item_title">应用信息</string>
+    <string name="package_inspect_item_title">应用信息</string>
     <string name="recents_settings_title">全方位开关</string>
     <string name="start_on_boot_title">开机启动</string>
     <string name="start_on_boot_summary">开始,使设备启动</string>
@@ -71,9 +71,20 @@
     <string name="auto_hide_handle">自动隐藏</string>
     <string name="auto_hide_handle_summary">Two swipes to show overlay view</string>
     <string name="no_recent_apps_title">最近没有应用程序</string>
-    <string name="adjust_handle_summary"></string>
-    <string name="drag_handle_opacity_title">透明度</string>
-    <string name="drag_handle_opacity_summary"></string>
+    <string name="drag_handle_opacity_title">不透明</string>
     <string name="drag_handle_enable_title">启用</string>
     <string name="drag_handle_enable_summary">只有当您使用其他激活方法时禁用</string>
+    <string name="allapps_help">应用抽屉</string>
+    <string name="allapps">应用抽屉</string>
+    <string name="dim_behind_title">暗黑背景</string>
+    <string name="dim_behind_summary">适用于不透明屏幕</string>
+    <string name="gravity_title">横向重力</string>
+    <string name="gravity_center">中心</string>
+    <string name="gravity_drag">拖动手柄侧</string>
+    <string name="dialog_pick_iconpack_title">选择图标包</string>
+    <string name="default_iconpack_title">默认图标</string>
+    <string name="icon_packs_title">图标包</string>
+    <string name="no_iconpacks_summary">没有安装图标包</string>
+    <string name="icon_pack_title">图标包</string>
+    <string name="icon_pack_summary">使用图标包的应用程序图标</string>
 </resources>
